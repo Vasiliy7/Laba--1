@@ -1,4 +1,9 @@
-Laba--1
-=======
+#include "stdio.h"
+#include "conio.h"
 
-Hello world
+void main()
+{
+  printf("Hello world");
+  getch();
+
+}
